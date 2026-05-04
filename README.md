@@ -49,17 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raghavendra0211&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 💻 Top Languages
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raghavendra0211&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">
