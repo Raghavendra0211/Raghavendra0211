@@ -101,7 +101,7 @@
 
 ## 🐍 Contribution Snake (AUTO ANIMATION)
 
-![Snake animation](https://github.com/Raghavendra0211/Raghavendra0211/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Raghavendra0211/Raghavendra0211/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
