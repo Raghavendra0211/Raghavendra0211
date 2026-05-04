@@ -1,73 +1,120 @@
-<h1 align="center">Hi 👋, I'm Raghavendra</h1>
-<h3 align="center">🚀 AI Enthusiast | Developer | Creator</h3>
+<!-- 🌌 Futuristic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Raghavendra&fontSize=45&fontColor=00F7FF&animation=fadeIn" />
 
+<!-- 🤖 Typing Animation -->
 <p align="center">
-  <a href="https://github.com/Raghavendra0211">
-    <img src="https://komarev.com/ghpvc/?username=Raghavendra0211&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+in+Progress;Python+Developer;Future+Innovator;Building+Intelligent+Systems&center=true&width=550&height=45&color=00F7FF">
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 Passionate about building **AI-powered applications**
-- 🤖 Exploring **Machine Learning & Automation**
-- 🚀 Love turning ideas into real-world projects
-- ⚡ Always learning & improving
+# 👋 Hey, I'm Raghavendra  
+
+🚀 AI/ML Enthusiast | Python • DSA • Machine Learning  
+
+---
+
+## 🤖 About Me
+🧠 I build intelligent systems that solve real-world problems  
+⚡ Focused on scalable, smart & impactful solutions  
+🚀 Exploring AI, Deep Learning & Automation  
+
+---
+
+## 🌍 Identity
+- 🌏 India  
+- 🚀 Open to AI/ML Internships  
+- 🕶️ Vigilante Mode: ON  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.instagram.com/theraghavvvvv" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/raghavendra-832134300" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://www.threads.com/@theraghavvvvv" target="blank">
-<img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/threads.png" height="40"/>
-</a>
-<a href="https://github.com/Raghavendra0211" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<p align="center">
+<a href="https://github.com/Raghavendra0211"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="https://www.instagram.com/theraghavvvvv"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+<a href="https://www.linkedin.com/in/raghavendra-832134300"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,figma" />
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Raghavendra0211&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+</p>
+
+---
+
+### ⚙️ AI & Frameworks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,tailwind,nodejs" />
+</p>
+
+📌 HuggingFace • Sentence-Transformers • OpenAI API  
+
+---
+
+### 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+</p>
+
+📌 ChromaDB • FAISS  
+
+---
+
+### 🛠 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</p>
+
+📌 Cursor IDE • GitHub Copilot  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raghavendra0211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra0211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raghavendra0211&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Raghavendra0211&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake (AUTO ANIMATION)
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Raghavendra0211/Raghavendra0211/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://github.com/Raghavendra0211/Raghavendra0211/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## ⚡ Fun Zone
-> 💡 *Code. Learn. Build. Repeat.*  
-> 🤖 Turning coffee into AI models ☕
+> 💡 “Code. Learn. Build. Repeat.”  
+
+> 🤖 Turning coffee into AI models  
 
 ---
 
 ## 🚀 Mission
-Building **AI systems that actually matter in real life**
+Building AI systems that actually **matter in real life**
 
 ---
 
-<p align="center">
-⭐ From Raghavendra
-</p>
+⭐ From [Raghavendra](https://github.com/Raghavendra0211)
